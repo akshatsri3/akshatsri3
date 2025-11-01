@@ -4,19 +4,12 @@
 
 </p>
 
+<!-- Name -->
+<h1 align="center">I'm Akshat Srivastava 🧠 🚀 💡 🌐</h1>
+
+<!--  Short Bio -->
+<p align="center">
+  I’m a tech enthusiast with a passion for exploring full-stack development, AI, and innovative software projects. Beyond coding, I love diving into art and books, finding inspiration that fuels creativity in everything I build. Always curious, always learning, and constantly blending technology with imagination. 
+</p>
 
 
-<!--
-**akshatsri3/akshatsri3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
