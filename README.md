@@ -1,4 +1,7 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/demo/?weight=500&size=21&duration=4998&pause=997&color=04E1F7&lines=Hello!+%F0%9F%91%8B;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87!+%F0%9F%99%8F;Hola!+%F0%9F%8C%9E;Bonjour!+%F0%9F%87%AB%F0%9F%87%B7;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF!+%F0%9F%87%AF%F0%9F%87%B5" alt="Greetings" />
+</p>
+
 
 <!--
 **akshatsri3/akshatsri3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
