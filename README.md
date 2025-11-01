@@ -12,4 +12,12 @@
   I’m a tech enthusiast with a passion for exploring full-stack development, AI, and innovative software projects. Beyond coding, I love diving into art and books, finding inspiration that fuels creativity in everything I build. Always curious, always learning, and constantly blending technology with imagination. 
 </p>
 
+<!--  Tech Stack Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/React_Native-%2361DAFB.svg?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Android-Kotlin-%23A4C639.svg?logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?logo=firebase" />
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-%23007ACC.svg?logo=visual-studio-code&logoColor=white" />
+</p>
 
