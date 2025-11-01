@@ -46,3 +46,12 @@ Ping me anywhere ! 😎
    
 </p>
 
+## 💻 Projects
+
+### [Expensify-App](https://github.com/akshatsri3/Expensify_App) -An expense manager app buit using react native. 
+
+### [Bone-Fracture-Detection](https://github.com/akshatsri3/bone_fracture) -Uses open cv to detect bone fracture from images.  
+
+
+### [Whether App](https://github.com/akshatsri3/WhetherApp) -Live whether forecast app buit in android studio.
+
