@@ -41,7 +41,7 @@ Ping me anywhere ! 😎
 
 <p>
     <a href="https://www.linkedin.com/in/akshatsri3/" target="_blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/linkedin.png" height="50" width="50"></a>&nbsp;&nbsp;
-    <a href="https://instagram.com/akshatsri3" target="_blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/instagram.png" height="50" width="50"></a>&nbsp;&nbsp;
+    <a href="https://instagram.com/akshat.sri3" target="_blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/instagram.png" height="50" width="50"></a>&nbsp;&nbsp;
     <a href="https://www.twitter.com/akshatsri3" target="_blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/x.png" height="50" width="50"></a>&nbsp;&nbsp;
    
 </p>
