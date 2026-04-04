@@ -8,7 +8,7 @@
 
 <!--  Short Bio -->
 <p>
-  I’m a tech enthusiast with a passion for exploring full-stack development, AI, and innovative software projects. Beyond coding, I love diving into art and books, finding inspiration that fuels creativity in everything I build. Always curious, always learning, and constantly blending technology with imagination. 
+  I’m <a href="https://www.akshatsri.in/" target="_blank"><b>Akshat Srivastava </b></a> , a tech enthusiast with a passion for exploring full-stack development, AI, and innovative software projects. Beyond coding, I love diving into art and books, finding inspiration that fuels creativity in everything I build. Always curious, always learning, and constantly blending technology with imagination. 
 </p>
 
 <!-- 🧠 Tech Stack -->
